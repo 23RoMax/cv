@@ -1,6 +1,6 @@
 .ig
 Resume of Maximilian Nebl
-Last updated: Mai 2021 
+Last updated: Juli 2021 
 ..
 \# Document Settings & Macro
 .nr HM 0.7i
@@ -72,15 +72,15 @@ End 2 End responsibility for various development projects:
 .br
 .B "BAV Werkzeug"
 .br
-A betriebliche Altersvorsorge Insurance Calculator (as SaaS) based on Electron.js & Vue.js 
+A "betriebliche Altersvorsorge" Insurance Calculator (as SaaS) based on Electron.js & Vue.js 
 .br
 .br
 .B "360service Management Platform"
 .br
 Vue.js SPA (Vue2, ElementUI, Vuex, VueRouter, Axios, test automation)
 .br
-with dedicated backend (node.js, express.js, cloud functions) abstracting multiple
-.br APIaaS Solutions, in order to manage and control the operations.
+with dedicated backend (node.js, express.js, serverless) abstracting multiple
+APIaaS Solutions, in order to manage and control operations.
 .br
 Including features such as:
 .br
@@ -92,10 +92,11 @@ T}
 .B "Head of Product - Tillhub GmbH"
 \(en Berlin, Germany
 .br
-Responsible for a team of Product Managers and UX/UI Designers. Overseeing the whole product development at Tillhub.
-Scaled Tillhubs product landscape vertically and horizontally with deep integrations into commercial partners, and the extension of Tillhubs auxiliary products.
+Architected & implemented various mission critical backend projects in the Tillhub enterprise product lineup.
 .br
-Additionally implemented various backend projects in the Tillhub enterprise product lineup (node.js based stack).
+Migrated large scale Postgres Databaseserver (~4500 Databases) from AWS to GCloud, and across major server version updates.
+.br
+Responsible for a team of technical Product Managers and UX/UI Designers. Overseeing the whole product development at Tillhub. Scaled Tillhubs product landscape vertically and horizontally with deep integrations into commercial partners, and the extension of Tillhubs auxiliary products.
 .br
 Responsible for the resource orchestration in the product & development teams through the different phases of the startup.
 Since Q1 2020 in conjunction with a CTO. 
@@ -115,6 +116,8 @@ T}
 \(en Berlin, Germany
 .br
 First in-house tech hire. Direct report to CPO. The main challenges included:
+.br
+Development of software solutions for internal tooling and extending the products features
 .br
 Setting up the Berlin based engineering team
 .br
@@ -150,7 +153,7 @@ Vue.js 2, Vue.js 3, nuxt.js, Angular, nativescript,
 .br
 electron.js, CSS, QT, GJS (GTK Javascript bindings)
 .IP \[bu] 2
-Node.js, Express.js, Serverless, Meteor.js, C++,
+Node.js, Express.js, C++, Golang
 .br
 Typescript, OLAP, OLTP, REST, ETL/ELT
 .IP \[bu] 2
@@ -183,6 +186,7 @@ depending on the usecase at hand.
 T}
 .TE
 \m[default]
+.bp
 .heading "Education"
 .TS
 tab(;) nospaces;
