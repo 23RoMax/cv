@@ -1,3 +1,6 @@
+THIS CV HAS BEEN MOVED TO MY OWN GIT INSTANCE: https://git.scarif-be.synology.me/23Ro/CV.git
+
+
 # CV
 
 This is my CV. Written in groff using the ms macros.
